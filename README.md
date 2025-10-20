@@ -8,3 +8,6 @@ https://github.com/IlkomUNJ
 
 link akmal
 http://github.com/khmalz/kuliah-oop
+
+link deon
+https://github.com/Gimshi/for-uts
